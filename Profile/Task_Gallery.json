@@ -1,6 +1,7 @@
 {
  "name": "Timamoi's Personal Task Gallery",
  "description": "自用task合集",
+ "task": [
     "35 */30 */2 * * * https://raw.githubusercontent.com/timamoi/QuantumultX/main/Task_Js/youth_read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/timamoi/QuantumultX/main/Icons/API/youth.png",
     "1 */5 * * * https://raw.githubusercontent.com/timamoi/QuantumultX/main/Task_Js/youth.js, tag=中青看点获取青豆, img-url=https://raw.githubusercontent.com/timamoi/QuantumultX/main/Icons/API/youth_gain.png",
     "20 5 10 * * * https://raw.githubusercontent.com/timamoi/QuantumultX/main/Task_Js/youth_gain.js, tag=中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/timamoi/QuantumultX/main/Icons/API/youth_gain.png",
