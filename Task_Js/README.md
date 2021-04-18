@@ -1,5 +1,6 @@
 # 源码作者
  ## [Sunert](https://github.com/Sunert)
- ｜ 中青看点浏览赚  ｜ youth_gain.js ｜
- ｜ 中青看点自动阅读 ｜               ｜ 
- ｜ 中青看点获取青豆 ｜               ｜
+ | Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
