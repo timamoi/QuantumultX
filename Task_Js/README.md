@@ -9,3 +9,7 @@
 | &nbsp; &nbsp; &nbsp;API名称 &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;JS名称&nbsp; &nbsp; &nbsp; |
  | ---------------- | :-------------------: |
  | &nbsp; &nbsp; &nbsp;腾讯自选股 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  txstockqx.js  &nbsp;&nbsp;&nbsp;     |
+## [BlackMatrix7](https://github.com/blackmatrix7)
+| &nbsp; &nbsp; &nbsp;API名称 &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;JS名称&nbsp; &nbsp; &nbsp; |
+ | ---------------- | :-------------------: |
+ | &nbsp; &nbsp; &nbsp;饿了么签到 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_mission.js  &nbsp;&nbsp;&nbsp;     |
