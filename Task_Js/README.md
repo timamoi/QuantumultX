@@ -14,3 +14,4 @@
  | ---------------- | :-------------------: |
  | &nbsp; &nbsp; &nbsp;领取会员任务 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_mission.js  &nbsp;&nbsp;&nbsp;     |
 | &nbsp; &nbsp; &nbsp;领取吃货豆 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_daily.js  &nbsp;&nbsp;&nbsp;     |
+| &nbsp; &nbsp; &nbsp;领取吃货豆 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_daily.js  &nbsp;&nbsp;&nbsp;     |
