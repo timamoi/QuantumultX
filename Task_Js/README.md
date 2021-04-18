@@ -8,10 +8,10 @@
 ## [CenBoMin](https://github.com/CenBoMin)
 | &nbsp; &nbsp; &nbsp;API名称 &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;JS名称&nbsp; &nbsp; &nbsp; |
  | ---------------- | :-------------------: |
- | &nbsp; &nbsp; &nbsp;腾讯自选股 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  txstockqx.js  &nbsp;&nbsp;&nbsp;     |
+ | &nbsp; &nbsp; &nbsp;腾讯自选股签到 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  txstockqx.js  &nbsp;&nbsp;&nbsp;     |
 ## [BlackMatrix7](https://github.com/blackmatrix7)
 | &nbsp; &nbsp; &nbsp;API名称 &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;JS名称&nbsp; &nbsp; &nbsp; |
  | ---------------- | :-------------------: |
- | &nbsp; &nbsp; &nbsp;领取会员任务 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_mission.js  &nbsp;&nbsp;&nbsp;     |
-| &nbsp; &nbsp; &nbsp;领取吃货豆 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_daily.js  &nbsp;&nbsp;&nbsp;     |
-| &nbsp; &nbsp; &nbsp;领取吃货豆 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_daily.js  &nbsp;&nbsp;&nbsp;     |
+ | &nbsp; &nbsp; &nbsp;饿了么领取会员任务 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_mission.js  &nbsp;&nbsp;&nbsp;     |
+| &nbsp; &nbsp; &nbsp;饿了么领取吃货豆 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  eleme_daily.js  &nbsp;&nbsp;&nbsp;     |
+| &nbsp; &nbsp; &nbsp;滴滴出行 &nbsp; &nbsp; &nbsp;      |    &nbsp; &nbsp;&nbsp;  didi_checkin.js  &nbsp;&nbsp;&nbsp;     |
