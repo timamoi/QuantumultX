@@ -3,4 +3,4 @@
  | API | JS |
 | --- | --- |
 | 中青看点浏览赚 | youth_gain.js |
-| git diff | Show file differences that haven't been staged |
+| 中青看点自动阅读 | youth_read.js |
