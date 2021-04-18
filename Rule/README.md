@@ -1,2 +1,1 @@
-#### 所有list均来自blackmatrix7
-[我的网址]（http://www.xxx.com）
+## 所有资源均来自[Blackmatrix7](https://github.com/blackmatrix7)
