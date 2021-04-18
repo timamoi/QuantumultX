@@ -1,5 +1,5 @@
 {
- "name": "Timamoi's Personal Task Gallery",
+ "name": "Personal Task Gallery",
  "description": "自用task合集",
  "task": [
     "0 16 * * * https://raw.githubusercontent.com/timamoi/QuantumultX/main/Task_Js/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/timamoi/QuantumultX/main/Icons/API/txstockqx.png",
