@@ -5,7 +5,7 @@
 ### 本项目的AllInOne复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。感谢以下复写规则作者的辛勤付出（排名不分先后）。
 
 ### 如果你正在使用这些复写规则，建议不要与本项目的AllInOne复写规则混合使用，以免造成规则重复。
-
+---
 * https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 * https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
 * https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
